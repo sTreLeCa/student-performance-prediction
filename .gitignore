@@ -211,8 +211,10 @@ __marimo__/
 # =========================
 
 # Raw datasets (do not commit large files)
+# Ignore all files in data/raw
 data/raw/*
-!data/raw/README.md
+# Do NOT ignore the .gitkeep file
+!data/raw/.gitkeep
 
 # Optional: ignore generated figures (ONLY if auto-generated)
 # figures/*
