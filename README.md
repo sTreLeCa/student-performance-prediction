@@ -17,7 +17,7 @@ This project applies data science techniques to predict student academic outcome
 **Deliverable:** `01_data_cleaning.ipynb`
 
 Responsibilities:
-- Loaded raw student performance dataset
+- Loaded raw student performance dataset (not included in the project due to its large size)
 - Handled missing values and outliers
 - Encoded categorical variables using one-hot encoding
 - Normalized/scaled numeric features using StandardScaler
@@ -124,7 +124,7 @@ Responsibilities:
 student-performance-prediction/
 │
 ├── data/
-│   ├── raw/                          # Original dataset (not tracked)
+│   ├── raw/                          # Original dataset (not tracked in project for its large size)
 │   └── processed/
 │       └── student_cleaned.csv       # Cleaned dataset
 │
