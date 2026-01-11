@@ -1,0 +1,9 @@
+Linear Regression Model – Evaluation Metrics
+-------------------------------------------
+R² Score: 0.724
+MSE: 5.657
+RMSE: 2.378
+
+Interpretation:
+The model explains a significant portion of variance in final student grades.
+Prediction error is relatively low, indicating reliable performance.
