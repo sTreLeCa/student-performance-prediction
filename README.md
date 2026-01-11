@@ -13,7 +13,7 @@ This project applies data science techniques to predict student academic outcome
 
 ## Team Members & Contributions
 
-### Person 1 — Data Cleaning & Preprocessing
+### Aleksandre Pluzhnikovi — Data Cleaning & Preprocessing
 **Deliverable:** `01_data_cleaning.ipynb`
 
 Responsibilities:
@@ -30,7 +30,7 @@ Responsibilities:
 
 ---
 
-### Person 2 — Exploratory Data Analysis (EDA & Visualization)
+### Sandro Saralidze — Exploratory Data Analysis (EDA & Visualization)
 **Deliverable:** `02_eda_visualization.ipynb`
 
 Responsibilities:
@@ -57,7 +57,7 @@ All figures saved to `/report/figures/`
 
 ---
 
-### Person 3 — Regression Model (Predict Final Grade)
+### Levan Mosiashvili — Regression Model (Predict Final Grade)
 **Deliverable:** `03_regression_model.ipynb`
 
 Responsibilities:
@@ -79,7 +79,7 @@ Responsibilities:
 
 ---
 
-### Person 4 — Classification Model (Pass / Fail)
+### Andria Bibiashvili — Classification Model (Pass / Fail)
 **Deliverable:** `04_classification_model.ipynb`
 
 Responsibilities:
@@ -143,6 +143,7 @@ student-performance-prediction/
 │       ├── feature_importance_classification.png
 │       └── decision_tree_visualization.png
 │
+├── CONTRIBUTIONS.md                  # Members contributions
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Python dependencies
 
@@ -318,14 +319,6 @@ These findings suggest early intervention strategies should focus on:
 ## License
 
 This project is created for educational purposes as part of a Data Science course.
-
-## Contact
-
-For questions or collaboration:
-- Repository: [GitHub Link]
-- Issues: [GitHub Issues]
-
----
 
 **Last Updated:** January 2026
 **Status:** ✓ All four components completed (Data Cleaning, EDA, Regression, Classification)
